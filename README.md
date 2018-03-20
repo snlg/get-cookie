@@ -5,12 +5,12 @@
 
 ## Install
 ```javascript
-npm install --save get-XDcookie
+npm install --save get-xd-cookie
 ```
 
 ## Usage
 ```javascript
-const getXDcookie = require('get-XDcookie');
+const getXDcookie = require('get-xd-cookie');
 
 getXDcookie({
     phone: 'your phone',
