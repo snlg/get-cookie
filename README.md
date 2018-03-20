@@ -1,5 +1,5 @@
 # get-XDcookie
-[![npm version](https://img.shields.io/badge/npm-0.0.1-brightgreen.svg)](https://www.npmjs.com/package/get-XDcookie)
+[![npm version](https://img.shields.io/badge/npm-0.0.1-brightgreen.svg)](https://www.npmjs.com/package/get-xd-cookie)
 
 爬虫模拟odecker4登录，获取cookie
 
