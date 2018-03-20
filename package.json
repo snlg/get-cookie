@@ -1,0 +1,24 @@
+{
+  "name": "get-xd-cookie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snlg/get-cookie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snlg/get-cookie/issues"
+  },
+  "homepage": "https://github.com/snlg/get-cookie#readme",
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "querystring": "^0.2.0"
+  }
+}
